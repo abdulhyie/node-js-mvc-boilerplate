@@ -1,4 +1,4 @@
-# node-js-mvc-boilerplate
+# Node JS MVC Boilerplate
 A boilerplate code for Node JS web application on MVC architecture 
 
 # ORM
